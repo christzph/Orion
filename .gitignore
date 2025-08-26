@@ -1,6 +1,3 @@
-# Ignorar arquivos de configuração com chaves secretas
 config.py
-
-# Ignorar pastas de cache do Python
 __pycache__/
 *.pyc
