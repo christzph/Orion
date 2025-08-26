@@ -21,10 +21,9 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
 **1. Clone o Repositório:**
 Abra seu terminal ou Git Bash e execute:
 ```bash
-git clone [https://github.com/seu-usuario/Orion.git](https://github.com/seu-usuario/Orion.git)
+git clone [https://github.com/christzph/Orion.git](https://github.com/christzph/Orion.git)
 cd Orion
 ```
-*(Lembre-se de substituir `seu-usuario` pelo seu nome de usuário do GitHub)*
 
 **2. Crie e Ative um Ambiente Virtual:**
 Isso isola as dependências do projeto e é uma prática recomendada.
@@ -63,3 +62,4 @@ Certifique-se de que seu ambiente virtual (`venv`) está ativado e execute o seg
 ```bash
 python -m src.main
 ```
+
