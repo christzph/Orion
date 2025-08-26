@@ -58,15 +58,8 @@ mv config.py.example config.py
 -   Após renomear, abra o novo arquivo `config.py` e **cole sua chave de API** na variável `GEMINI_API_KEY`.
 
 ## ▶️ Como Executar
-Existem duas maneiras de iniciar o Orion:
-
-**A) Pelo Terminal (Recomendado):**
+**Pelo Terminal:**
 Certifique-se de que seu ambiente virtual (`venv`) está ativado e execute o seguinte comando na pasta raiz `Orion/`:
 ```bash
 python -m src.main
 ```
-
-**B) Pelo VS Code:**
-1.  Abra a pasta do projeto no VS Code.
-2.  Vá para a aba "Executar e Depurar" (ícone de play com um inseto).
-3.  No topo, selecione a configuração **"Orion: Executar Assistente"** e clique no botão de play verde.
